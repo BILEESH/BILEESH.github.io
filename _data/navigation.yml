@@ -8,6 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  title: "About Me"
+  permalink: /
+  author_profile: true
+
   - title: "Publications"
     url: /publications/
 
