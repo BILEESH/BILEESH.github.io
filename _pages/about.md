@@ -1,5 +1,11 @@
 
-# About Me
+---
+title: "About Me"
+permalink: /
+author_profile: true
+redirect_from:
+  - /about/
+---
 
 I am Dr. Bileesh Babu, an Assistant Professor (Senior Grade 1) in the School of Computer Science and Engineering at VIT-AP University, India.
 
